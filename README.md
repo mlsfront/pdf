@@ -23,5 +23,18 @@ Terá duas opções disponíveis para gerar PDF, sendo elas:
 
 Realizando o comando acima, será baixado a biblioteca dompdf que está sendo requerida no arquivo 'composer.json'.
 
+## Imagens Ilustrativas
+
+### Formulário
+![imagem-1](https://github.com/mlsfront/pdf/blob/main/img/form.png "Formulário")
+
+### Formato HTML
+![imagem-1](https://github.com/mlsfront/pdf/blob/main/img/html.png "Formato HTML")
+
+### Função nl2br
+![imagem-1](https://github.com/mlsfront/pdf/blob/main/img/nl2br.png "Função nl2br")
+
+
 #### Espero que seja tão útil para você, como está sendo para mim!
+
 
